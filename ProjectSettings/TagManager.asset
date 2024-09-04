@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ground
+  - MovingObj
+  - Traps
+  - EndCollider
+  - PushableBox
+  - Boss
+  - BossTrigger
+  - PowerUP
+  - Shield
+  - HoverOrb
+  - Fall
+  - HealthUp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - MovingObj
+  - Traps
+  - EndCollider
+  - FireBall
+  - Boss
+  - PoweUP
+  - Shield
+  - healths
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Forest_Backgrounds
+    uniqueID: 3760698555
+    locked: 0
+  - name: Wall_Inside
+    uniqueID: 3501161957
+    locked: 0
+  - name: Wall_arts
+    uniqueID: 99753267
+    locked: 0
+  - name: Platforms
+    uniqueID: 2162613521
+    locked: 0
+  - name: Forest_Platfrom
+    uniqueID: 4015960583
+    locked: 0
+  - name: Characters
+    uniqueID: 997863053
+    locked: 0
+  - name: Boss
+    uniqueID: 3548183023
+    locked: 0
